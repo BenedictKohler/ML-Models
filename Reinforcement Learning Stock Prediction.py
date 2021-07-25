@@ -1,4 +1,6 @@
-# Reinforcement Learning solution to predicting stock prices
+# Naive RL solution to stock price prediction
+# Uses shallow neural network in order to learn the different
+# states for optimal buy, sell, and hold trades.
 
 import numpy as np
 import math
